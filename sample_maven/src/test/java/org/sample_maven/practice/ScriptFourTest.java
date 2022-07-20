@@ -8,8 +8,8 @@ public class ScriptFourTest {
 	@Test
 	public void fourthMethod() {
 		System.out.println("namasakaram");
-		String UserName = System.getProperty("UserName");
-		System.out.println(UserName);
+		String username = System.getProperty("username");
+		System.out.println(username);
 	}
 	
 }
